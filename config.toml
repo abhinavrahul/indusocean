@@ -6,6 +6,7 @@ author 			= "Abhinav Rahul"
 title 			= "IndusOcean"
 enableEmoji 	= true
 
+
 [taxonomies]
 tag 			= "tags"
 category 		= "categories"

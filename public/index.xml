@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IndusOcean</title>
+    <link>https://abhinavrahul.github.io/</link>
+    <description>Recent content on IndusOcean</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2017 Abhinav Rahul</copyright>
+    <lastBuildDate>Sat, 17 Jun 2017 08:11:04 +0530</lastBuildDate>
+    
+	<atom:link href="https://abhinavrahul.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Create Github repository from command line using shell script</title>
+      <link>https://abhinavrahul.github.io/blog/2017-06-17-create-a-github-repo-from-terminal-using-shell-script/</link>
+      <pubDate>Sat, 17 Jun 2017 08:11:04 +0530</pubDate>
+      
+      <guid>https://abhinavrahul.github.io/blog/2017-06-17-create-a-github-repo-from-terminal-using-shell-script/</guid>
+      <description>Welcome to my second post. In this post, we will see how to create a new Github repository from command line/terminal using shell script (bash to be precisely) in Linux.
+My OS is Ubuntu 16.04 LTS and I&amp;rsquo;ve tested the script on Linux Mint as well (Linux Mint is created on top of Ubuntu).
+Since last night, I&amp;rsquo;m struggling hard to automate build and deployment of my Hugo website in a very simple fashion using bash script.</description>
+    </item>
+    
+    <item>
+      <title>My first post</title>
+      <link>https://abhinavrahul.github.io/blog/first-post/</link>
+      <pubDate>Thu, 15 Jun 2017 04:17:21 +0530</pubDate>
+      
+      <guid>https://abhinavrahul.github.io/blog/first-post/</guid>
+      <description>WELCOME This is my first Post + Blog.
+Just now setup with Hugo and hosted on Github pages.
+Please do come back when I&amp;rsquo;ve written something worth your time.
+Thanks 😄</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://abhinavrahul.github.io/about/</link>
+      <pubDate>Thu, 15 Jun 2017 03:48:59 +0530</pubDate>
+      
+      <guid>https://abhinavrahul.github.io/about/</guid>
+      <description>Hello everyone !
+My name is Abhinav Rahul. I&amp;rsquo;m a web developer from India.
+Playing with web technologies &amp;amp; knowing recent trends in cloud, devops etc. are my favourite pastimes.
+Feel free to reach out to me via email if you&amp;rsquo;ve any queries.</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://abhinavrahul.github.io/license/</link>
+      <pubDate>Thu, 15 Jun 2017 03:27:37 +0530</pubDate>
+      
+      <guid>https://abhinavrahul.github.io/license/</guid>
+      <description>The MIT License (MIT) Copyright © 2017 Abhinav Rahul
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://abhinavrahul.github.io/home/</link>
+      <pubDate>Thu, 15 Jun 2017 03:22:59 +0530</pubDate>
+      
+      <guid>https://abhinavrahul.github.io/home/</guid>
+      <description>Hi ! Welcome to IndusOcean, my blog. Here, I&amp;rsquo;ll be sharing information on web development &amp;amp; recent technology related stuff that interests me. Click for more details about me.</description>
+    </item>
+    
+  </channel>
+</rss>

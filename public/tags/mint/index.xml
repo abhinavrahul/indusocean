@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mint on IndusOcean</title>
+    <link>https://abhinavrahul.github.io/tags/mint/</link>
+    <description>Recent content in Mint on IndusOcean</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2017 Abhinav Rahul</copyright>
+    <lastBuildDate>Sat, 17 Jun 2017 08:11:04 +0530</lastBuildDate>
+    
+	<atom:link href="https://abhinavrahul.github.io/tags/mint/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Create Github repository from command line using shell script</title>
+      <link>https://abhinavrahul.github.io/blog/2017-06-17-create-a-github-repo-from-terminal-using-shell-script/</link>
+      <pubDate>Sat, 17 Jun 2017 08:11:04 +0530</pubDate>
+      
+      <guid>https://abhinavrahul.github.io/blog/2017-06-17-create-a-github-repo-from-terminal-using-shell-script/</guid>
+      <description>Welcome to my second post. In this post, we will see how to create a new Github repository from command line/terminal using shell script (bash to be precisely) in Linux.
+My OS is Ubuntu 16.04 LTS and I&amp;rsquo;ve tested the script on Linux Mint as well (Linux Mint is created on top of Ubuntu).
+Since last night, I&amp;rsquo;m struggling hard to automate build and deployment of my Hugo website in a very simple fashion using bash script.</description>
+    </item>
+    
+  </channel>
+</rss>
