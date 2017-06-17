@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://abhinavrahul.github.io/blog/2017-06-17-create-a-github-repo-from-terminal-using-shell-script/</loc>
+    <lastmod>2017-06-17T08:11:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abhinavrahul.github.io/blog/first-post/</loc>
+    <lastmod>2017-06-15T04:17:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abhinavrahul.github.io/about/</loc>
+    <lastmod>2017-06-15T03:48:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abhinavrahul.github.io/license/</loc>
+    <lastmod>2017-06-15T03:27:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abhinavrahul.github.io/home/</loc>
+    <lastmod>2017-06-15T03:22:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abhinavrahul.github.io/tags/bash/</loc>
+    <lastmod>2017-06-17T08:11:04+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://abhinavrahul.github.io/blog/</loc>
+    <lastmod>2017-06-17T08:11:04+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://abhinavrahul.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://abhinavrahul.github.io/tags/github/</loc>
+    <lastmod>2017-06-17T08:11:04+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://abhinavrahul.github.io/tags/hugo/</loc>
+    <lastmod>2017-06-15T04:17:21+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://abhinavrahul.github.io/</loc>
+    <lastmod>2017-06-17T08:11:04+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://abhinavrahul.github.io/tags/mint/</loc>
+    <lastmod>2017-06-17T08:11:04+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://abhinavrahul.github.io/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://abhinavrahul.github.io/tags/</loc>
+    <lastmod>2017-06-17T08:11:04+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://abhinavrahul.github.io/tags/ubuntu/</loc>
+    <lastmod>2017-06-17T08:11:04+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

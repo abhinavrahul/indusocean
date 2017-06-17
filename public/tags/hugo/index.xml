@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on IndusOcean</title>
+    <link>https://abhinavrahul.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on IndusOcean</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2017 Abhinav Rahul</copyright>
+    <lastBuildDate>Thu, 15 Jun 2017 04:17:21 +0530</lastBuildDate>
+    
+	<atom:link href="https://abhinavrahul.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first post</title>
+      <link>https://abhinavrahul.github.io/blog/first-post/</link>
+      <pubDate>Thu, 15 Jun 2017 04:17:21 +0530</pubDate>
+      
+      <guid>https://abhinavrahul.github.io/blog/first-post/</guid>
+      <description>WELCOME This is my first Post + Blog.
+Just now setup with Hugo and hosted on Github pages.
+Please do come back when I&amp;rsquo;ve written something worth your time.
+Thanks 😄</description>
+    </item>
+    
+  </channel>
+</rss>
